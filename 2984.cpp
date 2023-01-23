@@ -11,10 +11,6 @@ int main (){
         else if (assunto>0)
             assunto--;
     }
-    /*if (comeco<fim)
-        assunto=fim-comeco;
-    else
-        assunto=comeco-fim;*/
     if (!assunto)
         cout << "Partiu RU!" << endl;
     else
